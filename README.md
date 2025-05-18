@@ -35,18 +35,6 @@ Others: Responsive Design, REST APIs, Web Accessibility (a11y), Performance Opti
 
 <br/>
 
-📁 Projects
-
-I build real world projects focused on performance, usability, and accessibility. Check out some of my featured projects below or explore my repositories for more.
-
-🛒 E-commerce Platform – Angular-based online store with cart, product filtering, and checkout.
-
-📘 Blog CMS – A blog management tool built with React and Firebase.
-
-📊 Dashboard UI – A responsive dashboard with charts, tables, and reusable components.
-
-<br/>
-
 💡 What I'm Learning
 
 Advanced state management (NgRx, Redux)
