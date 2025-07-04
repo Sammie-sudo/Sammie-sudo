@@ -39,10 +39,6 @@ Others: Responsive Design, REST APIs, Web Accessibility (a11y), Performance Opti
 
 Advanced state management (NgRx, Redux)
 
-React ecosystem (Next.js, React Query)
-
-Backend basics with Node.js and Express
-
 Writing better unit and integration tests
 
 <br/>
