@@ -13,31 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I'm Samuel Olofintoye
-I’m a results driven Frontend Engineer with a passion for crafting elegant, scalable, and high-performance web applications. I specialize in building responsive, user focused interfaces using modern technologies like Angular, React, and TypeScript, with a strong emphasis on clean architecture and maintainable code. My work goes beyond UI implementation, I bring engineering discipline to the frontend by optimizing performance, enforcing best practices, and building systems that scale with teams and users alike. I'm continuously evolving by tackling real world problems, contributing to open source, and staying at the forefront of frontend innovation.
+I am a skilled Front-End Developer with 4+ years’ experience building production-ready Angular applications. Proficient in HTML5, CSS/SCSS, JavaScript/TypeScript, and modern Angular, I craft responsive, accessible UIs and write clean, maintainable code. I possess a keen design eye and performance mindset, collaborating closely with product and UX teams to ship features on time. Committed to continuous learning, I leverage the latest Angular patterns—signals, standalone components, RxJS—to drive code quality and best practices.
 
 <br/>
 
 🔧 Tech Stack
 
-Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript, SCSS
-
-Frameworks: Angular, React, Next.js (learning), Node.js (basic)
-
-Styling: Tailwind CSS, Bootstrap, Material UI, Pure SCSS
-
-Version Control: Git, GitHub, GitLab
-
-Tools: VS Code, Figma, Postman, Chrome DevTools
-
-Testing: Jasmine, Karma
-
-Others: Responsive Design, REST APIs, Web Accessibility (a11y), Performance Optimization
+<li>Angular, TypeScript, NgRx, RxJS</li>
 
 <br/>
 
 💡 What I'm Learning
 
-Advanced state management (NgRx, Redux)
+Advanced state management (NgRx)
 
 Writing better unit and integration tests
 
