@@ -19,7 +19,7 @@ I am a skilled Front-End Developer with 4+ years’ experience building producti
 
 🔧 Tech Stack
 
-<li>Angular, TypeScript, NgRx, RxJS</li>
+Angular, TypeScript, NgRx, RxJS
 
 <br/>
 
